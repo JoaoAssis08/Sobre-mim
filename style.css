@@ -6,36 +6,35 @@
 
 body{
     font: 20px "work sans", sans-serif;
-    background-image: linear-gradient(to top, #0B3954, #559CAD);
+    background-image: linear-gradient(to bottom, #5e548e, #231942);
     background-attachment: fixed;
 }
 
 h1{
     font-family: "limelight", sans-serif;
-    color: white;
+    color: #F5DDDD;
     text-align: center;
 }
 
 h2, h3{
     font-family: "limelight", sans-serif;
-    color: white;
+    color: #F5DDDD;
     
 }
 
 p{
-    color: white;
+    color: #F5DDDD;
     text-align: justify;
     text-indent: 30px;
 }
 
 li{
-    color: white;
+    color: #F5DDDD;
 }
 
 #minhaImagem {
     width: 200px; /* Altere para o tamanho desejado */
     height: auto; /* Mantém a proporção da imagem */
-    
 }
 
 img{
@@ -44,5 +43,5 @@ img{
 
 a{
     text-decoration: none;
-    color:#98b9f2 ;
+    color:#A3BCF9 ;
 }
